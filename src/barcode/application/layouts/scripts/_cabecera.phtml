@@ -1,0 +1,18 @@
+    <div id="logo">
+        <hgroup>
+            <h1>SISTEMA DE INVENTARIOS Y CONTROL DE PRODUCTOS</h1>
+            <h3>Empresa ABCDE S.A.</h3>
+        </hgroup><hgroup style="text-align:right; padding: 0 40px 0 0;">
+                Bienvenido <?=isset($this->usuario)?$this->usuario['nombres']:'visitante'?>
+                [
+                <?php if(isset($this->usuario)): ?>
+                    <a href="<?=$this->url(array('action'=>'logout', 'controller'=>'index'),null,true)?>">Logout</a>
+                <?php else: ?>
+                    <a href="<?=$this->url(array('action'=>'login', 'controller'=>'index'),null,true)?>">Login</a>
+                <?php endif; ?>
+                ]
+                <?=date("Y-m-d H:i:s");?>
+            </p>
+        </hgroup>
+    </div>
+

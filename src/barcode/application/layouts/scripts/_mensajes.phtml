@@ -1,0 +1,9 @@
+<?php var_dump($this->messages); ?>
+<?php if(count($this->messages)): ?>
+    <ul id="mensajes">
+        <?php foreach($this->messages as $m): ?>
+            <li><?=$m?></li>
+        <?php endforeach; ?>
+    </ul>
+<?php endif; ?>
+

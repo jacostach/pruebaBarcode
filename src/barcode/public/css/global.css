@@ -1,0 +1,141 @@
+/* Layout: */
+
+body{
+    margin: 0px 50px;
+    padding: 0px;
+    color: #222;
+    background: #366599;
+    font-family: sans-serif;
+}
+
+#cabecera{
+    background: #FF9000;
+    color: white;
+    height: 50px;
+}
+#cabecera h1{
+    float: left;
+    margin: 0px 10px;
+    padding: 6px;
+    font-size: 32px;
+}
+#cabecera #esquina{
+    float: right;
+    font-size: 14px;
+    margin: 20px 20px 0 0;
+    font-weight: bold;
+}
+
+#menu{
+    background: #606060;
+    color: white;
+    height: 30px;
+}
+#menu ul{
+    margin: 0px 20px;
+    padding: 0px;
+}
+#menu ul li{
+    list-style: none;
+    float: left;
+    margin: 5px 20px 0px 0px;
+}
+#menu ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+#contenido{
+    padding: 10px;
+    background: white;
+    min-height: 200px;
+}
+
+#pie{
+    background: #E8E8E8;
+    color: #366599;
+    text-align: center;
+    font-size: 12px;
+    height: 44px;
+    line-height: 10px;
+}
+
+#pie span{
+    padding-top: 8px;
+    display: block;
+
+}
+
+/* tools */
+.clear{ clear: both; }
+.error{ color: red !important; }
+.izq{ float: left !important; }
+.der{ float: right !important; }
+
+/* global */
+h2{
+    margin: 0px;
+    padding: 5px 0px;
+    color: #001E3F;
+}
+
+a{
+    color: #366599;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.listado a{
+    color: #366599;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.activo{
+    background: #E0FFE0;
+}
+
+.inactivo{
+    background: #FFE0E0;
+}
+
+.num{
+    text-align: right;
+}
+
+/* messages */
+
+ul#mensajes{
+    width: 480px;
+    border: 1px solid orange;
+    margin: 0px auto;
+    list-style: none;
+    padding: 0px;
+    background: #F2EDDD;
+    color: #54382F;
+}
+ul#mensajes li{
+    text-align: center;
+    padding: 3px 0;
+    font-size: 13px;
+}
+
+#loginbox{
+    width: 200px;
+    height: 170px;
+    border: 1px solid navy;
+    margin: 100px auto;
+    padding: 30px;
+    background: #C9E1E8;
+}
+
+ul.errors{
+    padding: 0px;
+    list-style: none;
+}
+ul.errors li{
+    color: red;
+    font-weight: bold;
+    font-size: 11px;
+}

@@ -1,0 +1,16 @@
+<footer id="main-footer">
+    <section id="footer-1">
+        Copyright drumsclown &copy; 2011<br/>
+        [
+        <a href="<?=$this->url(array('action'=>'reset', 'controller'=>'test'),null,true)?>">Reset DB</a> |
+        <a href="<?=$this->url(array('action'=>'form', 'controller'=>'test'),null,true)?>">Forms</a> |
+        <a href="<?=$this->url(array('action'=>'config-and-log', 'controller'=>'test'),null,true)?>">Config And Log</a> 
+        ]
+    </section>
+    <section id="footer-2">
+        <? $S = new Zend_Session_Namespace('ventas'); ?>
+        <? var_dump($S->usuario); ?><hr />
+        <? var_dump($S->venta); ?><hr />
+    </section>
+</footer>
+

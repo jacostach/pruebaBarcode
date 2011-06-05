@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/oscventas/!svn/ver/17/trunk/src/ventas/application/forms
+END
+Ejemplo.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/oscventas/!svn/ver/8/trunk/src/ventas/application/forms/Ejemplo.php
+END
+LoginCaptcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/oscventas/!svn/ver/12/trunk/src/ventas/application/forms/LoginCaptcha.php
+END
+Venta.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/oscventas/!svn/ver/14/trunk/src/ventas/application/forms/Venta.php
+END
+Categoria.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/oscventas/!svn/ver/14/trunk/src/ventas/application/forms/Categoria.php
+END
+Fabricante.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/oscventas/!svn/ver/9/trunk/src/ventas/application/forms/Fabricante.php
+END
+Producto.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/oscventas/!svn/ver/14/trunk/src/ventas/application/forms/Producto.php
+END
+Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/oscventas/!svn/ver/17/trunk/src/ventas/application/forms/Test.php
+END
+Registrar.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/oscventas/!svn/ver/9/trunk/src/ventas/application/forms/Registrar.php
+END
+VentaCatalogo.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/oscventas/!svn/ver/9/trunk/src/ventas/application/forms/VentaCatalogo.php
+END
+Login.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/oscventas/!svn/ver/9/trunk/src/ventas/application/forms/Login.php
+END
+VentaDetalle.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/oscventas/!svn/ver/9/trunk/src/ventas/application/forms/VentaDetalle.php
+END

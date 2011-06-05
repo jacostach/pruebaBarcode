@@ -1,0 +1,18 @@
+<?= $this->doctype(); ?>
+<html>
+    <head>
+        <?= $this->headMeta() ?>        
+        <?= $this->headTitle() ?>        
+        <?= $this->headLink() ?>        
+        <?= $this->headScript() ?>        
+    </head>
+    <body>
+        <?= $this->render('_cabecera.phtml'); ?>
+        <?= $this->render('_menu.phtml'); ?>
+        <div id="contenido">
+            <?= $this->render('_mensajes.phtml'); ?>
+            <?= $this->layout()->content ?>
+        </div>
+        <?= $this->render('_pie.phtml'); ?>
+    </body>
+</html>

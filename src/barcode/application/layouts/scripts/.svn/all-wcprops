@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/oscventas/!svn/ver/14/trunk/src/ventas/application/layouts/scripts
+END
+_pie.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/oscventas/!svn/ver/14/trunk/src/ventas/application/layouts/scripts/_pie.phtml
+END
+layout.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/oscventas/!svn/ver/14/trunk/src/ventas/application/layouts/scripts/layout.phtml
+END
+_menu.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/oscventas/!svn/ver/14/trunk/src/ventas/application/layouts/scripts/_menu.phtml
+END
+_cabecera.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/oscventas/!svn/ver/14/trunk/src/ventas/application/layouts/scripts/_cabecera.phtml
+END
+_mensajes.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/oscventas/!svn/ver/6/trunk/src/ventas/application/layouts/scripts/_mensajes.phtml
+END
+layout_login.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/oscventas/!svn/ver/14/trunk/src/ventas/application/layouts/scripts/layout_login.phtml
+END

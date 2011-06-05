@@ -1,0 +1,29 @@
+fieldset{
+    width: 300px;
+    margin: auto;
+}
+
+
+#formsContainer{
+    width: 600px;
+    margin: auto;
+}
+
+#formsContainer .detalle{
+    width: 48%;
+    float: left;
+}
+
+#formsContainer .venta{
+    width: 48%;
+    float: right;
+    text-align: center;
+}
+
+#formsContainer .venta dd{
+    margin-left: 0px;
+}
+
+#formsContainer .venta a{
+    font-weight: bold;
+}
